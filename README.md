@@ -43,7 +43,7 @@ Where: [The Big Building, Groningen NL](https://blockchainhackathon.eu/events/ha
 
 1. You get bonus points based on your score in Better Code Hub
 
-2. One bonus point for each guideline that you comply with
+2. The more guidelines you get right, the more bonus points you get
 
 If you are not on GitHub or your programming language is not supported, talk to us
 
