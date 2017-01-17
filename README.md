@@ -13,12 +13,12 @@ Where: [The Big Building, Groningen NL](https://blockchainhackathon.eu/events/ha
 
 3. You can check your code against the guidelines using Better Code Hub, a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with GitHub Flow and runs at Pull Requests and Commits.
 
-4. 14 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100Kloc
+4. 14 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) at a maximum of 100 KLoc
 
 
 ## How to get started
 
-1. Mail your team name and GitHub profile to bettercodehub@sig.eu to get Pro access
+1. Mail your team name and GitHub profile to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
 
 2. Put your public or private repo on Github in your profile
 
