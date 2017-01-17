@@ -2,6 +2,8 @@
 
 When: 10, 11 and 12 February 2017.
 
+Where: [The Big Building, Groningen NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
+
 
 ## How your code is evaluated
 
