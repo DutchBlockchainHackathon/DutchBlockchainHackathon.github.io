@@ -1,4 +1,4 @@
-# Earn bonus points for code quality during the Dutch BlockChain Hackathon!
+# Earn bonus points for code quality during the Dutch Blockchain Hackathon!
 
 When: 10, 11 and 12 February 2017.
 
