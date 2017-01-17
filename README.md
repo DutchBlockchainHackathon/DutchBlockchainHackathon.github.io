@@ -47,4 +47,4 @@ If you are not on GitHub or your programming language is not supported, talk to 
 
 best regards, 
 
-https://github.com/robvanderleek, https://github.com/mcadariu/ and https://github.com/michielcuijpers
+[Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
