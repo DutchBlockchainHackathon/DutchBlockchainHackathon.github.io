@@ -50,7 +50,7 @@ If you are not on GitHub or your programming language is not supported, talk to 
 
 ## Why Blockchain needs Future-Proof code
 
-1. read more on medium on [Why we think this](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Read more on medium [On why it needs readable code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
 
 Let's build some great software!
