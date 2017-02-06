@@ -18,7 +18,7 @@ Where: [The Big Building, Groningen NL](https://blockchainhackathon.eu/events/ha
 
 ## How to get started
 
-1. Mail your team name and GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
+1. Mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
 
 2. Put your public or private repo on Github in your profile
 
