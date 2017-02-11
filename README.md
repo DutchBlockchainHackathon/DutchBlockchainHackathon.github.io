@@ -4,6 +4,26 @@ When: 10, 11 and 12 February 2017.
 
 Where: [The Big Building, Groningen NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
 
+## Hackathon Scoreboard
+
+Not on the leaderboard? Let the BCH team know on the #bettercodehub-support Slack channel
+
+Team | Better Code Score
+--- | ---
+dbh17-abraxas/ShareEverythingWeb | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
+dbh17-abraxas/ShareEverythingTruffle | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingTruffle)](https://bettercodehub.com)
+dbh17-abraxas/ShareEverythingEthereum | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingEthereum)](https://bettercodehub.com)
+rvzanten/mtga-backend | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-backend)](https://bettercodehub.com)
+rvzanten/mtga-frontend | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-frontend)](https://bettercodehub.com)
+Anchormen/dutch-blockchain-hackathon-project-piggybank | [![BCH compliance](https://bettercodehub.com/edge/badge/Anchormen/dutch-blockchain-hackathon-project-piggybank)](https://bettercodehub.com)
+ArthurManz/thrust-id | [![BCH compliance](https://bettercodehub.com/edge/badge/ArthurManz/thrust-id)](https://bettercodehub.com)
+phi-nomenal/phi-nomenal | [![BCH compliance](https://bettercodehub.com/edge/badge/phi-nomenal/phi-nomenal)](https://bettercodehub.com)
+ajagesser/stemapp | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
+ajagesser/contracts | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
+TeamRam/DBH17 | [![BCH compliance](https://bettercodehub.com/edge/badge/TeamRam/DBH17)](https://bettercodehub.com)
+coldice/dbh-b9lab-hackathon  | [![BCH compliance](https://bettercodehub.com/edge/badge/coldice/dbh-b9lab-hackathon)](https://bettercodehub.com)
+timostrating/DutchBlockchainHackathon-2017 | [![BCH compliance](https://bettercodehub.com/edge/badge/timostrating/DutchBlockchainHackathon-2017)](https://bettercodehub.com)
+
 
 ## How your code is evaluated
 
@@ -51,25 +71,6 @@ If you are not on GitHub or your programming language is not supported, talk to 
 ## Why Blockchain needs Future-Proof code
 
 Read more on medium [On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
-
-## Hackathon Leaderboard
-
-Not on the leaderboard? Let the BCH team know on the #bettercodehub-support Slack channel
-
-Team | Better Code Score
---- | ---
-dbh17-abraxas/ShareEverythingWeb | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-dbh17-abraxas/ShareEverythingTruffle | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingTruffle)](https://bettercodehub.com)
-dbh17-abraxas/ShareEverythingEthereum | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingEthereum)](https://bettercodehub.com)
-rvzanten/mtga-backend | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-backend)](https://bettercodehub.com)
-rvzanten/mtga-frontend | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-frontend)](https://bettercodehub.com)
-Anchormen/dutch-blockchain-hackathon-project-piggybank | [![BCH compliance](https://bettercodehub.com/edge/badge/Anchormen/dutch-blockchain-hackathon-project-piggybank)](https://bettercodehub.com)
-ArthurManz/thrust-id | [![BCH compliance](https://bettercodehub.com/edge/badge/ArthurManz/thrust-id)](https://bettercodehub.com)
-phi-nomenal/phi-nomenal | [![BCH compliance](https://bettercodehub.com/edge/badge/phi-nomenal/phi-nomenal)](https://bettercodehub.com)
-ajagesser/stemapp | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
-ajagesser/contracts | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
-TeamRam/DBH17 | [![BCH compliance](https://bettercodehub.com/edge/badge/TeamRam/DBH17)](https://bettercodehub.com)
-coldice/dbh-b9lab-hackathon  | [![BCH compliance](https://bettercodehub.com/edge/badge/coldice/dbh-b9lab-hackathon)](https://bettercodehub.com)
 
 Let's build some great software!
 
