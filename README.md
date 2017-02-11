@@ -23,7 +23,7 @@ Team | Better Code Score
 [TeamRam/DBH17](https://github.com/TeamRam/DBH17) | [![BCH compliance](https://bettercodehub.com/edge/badge/TeamRam/DBH17)](https://bettercodehub.com)
 [coldice/dbh-b9lab-hackathon](https://github.com/coldice/dbh-b9lab-hackathon)  | [![BCH compliance](https://bettercodehub.com/edge/badge/coldice/dbh-b9lab-hackathon)](https://bettercodehub.com)
 [timostrating/DutchBlockchainHackathon-2017](https://github.com/timostrating/DutchBlockchainHackathon-2017) | [![BCH compliance](https://bettercodehub.com/edge/badge/timostrating/DutchBlockchainHackathon-2017)](https://bettercodehub.com)
-[ictdijk/digid](https://github.com/ictdijk/digid) | [![BCH compliance](https://bettercodehub.com/edge/badge/ictdijk/digi)](https://bettercodehub.com)
+[ictdijk/digid](https://github.com/ictdijk/digid) | [![BCH compliance](https://bettercodehub.com/edge/badge/ictdijk/digid)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
