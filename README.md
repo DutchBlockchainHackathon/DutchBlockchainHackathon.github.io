@@ -24,6 +24,7 @@ Team | Better Code Score
 [coldice/dbh-b9lab-hackathon](https://github.com/coldice/dbh-b9lab-hackathon)  | [![BCH compliance](https://bettercodehub.com/edge/badge/coldice/dbh-b9lab-hackathon)](https://bettercodehub.com)
 [timostrating/DutchBlockchainHackathon-2017](https://github.com/timostrating/DutchBlockchainHackathon-2017) | [![BCH compliance](https://bettercodehub.com/edge/badge/timostrating/DutchBlockchainHackathon-2017)](https://bettercodehub.com)
 [ictdijk/digid](https://github.com/ictdijk/digid) | [![BCH compliance](https://bettercodehub.com/edge/badge/ictdijk/digid)](https://bettercodehub.com)
+[willem7684/Multichain-php-API](https://github.com/willem7684/Multichain-php-API) | [![BCH compliance](https://bettercodehub.com/edge/badge/willem7684/Multichain-php-API)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
