@@ -25,6 +25,7 @@ Team | Better Code Score
 [timostrating/DutchBlockchainHackathon-2017](https://github.com/timostrating/DutchBlockchainHackathon-2017) | [![BCH compliance](https://bettercodehub.com/edge/badge/timostrating/DutchBlockchainHackathon-2017)](https://bettercodehub.com)
 [ictdijk/digid](https://github.com/ictdijk/digid) | [![BCH compliance](https://bettercodehub.com/edge/badge/ictdijk/digid)](https://bettercodehub.com)
 [willem7684/Multichain-php-API](https://github.com/willem7684/Multichain-php-API) | [![BCH compliance](https://bettercodehub.com/edge/badge/willem7684/Multichain-php-API)](https://bettercodehub.com)
+[DBH17-Energy/clear-energy](https://github.com/DBH17-Energy/clear-energy) | [![BCH compliance](https://bettercodehub.com/edge/badge/DBH17-Energy/clear-energy)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
