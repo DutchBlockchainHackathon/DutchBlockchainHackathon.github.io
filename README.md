@@ -6,7 +6,7 @@ Where: [The Big Building, Groningen NL](https://blockchainhackathon.eu/events/ha
 
 ## Hackathon Scoreboard
 
-Not on the leaderboard? Let the BCH team know on the #bettercodehub-support Slack channel
+Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
 
 Team | Better Code Score
 --- | ---
