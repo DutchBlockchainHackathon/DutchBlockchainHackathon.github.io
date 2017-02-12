@@ -9,6 +9,7 @@ PHi | https://github.com/phi-nomenal/phi-nomenal | c9f5ec14abb7a627d9484ca397467
 Ben#2 | https://github.com/dbHackathon2017/hackathon | 9849610a71b55ffbdb4bc34ca311e64e4b076c5f | 5
 EpicAuth | https://github.com/Qqwy/EpicAuth | 727c0dc682ad61348fc7bce695e583c8deb890da | 10
 EnergyReimaginated | https://github.com/Nosykaa/energyBlockchain | 2202785f6b74735936b548c0b9daa415e76330ad | 4
+GreenGrid | https://github.com/roadmanict/greengrid | 8576daf474f06530af2cf00d5a27fcc05e549fae | 8
 
 
 
