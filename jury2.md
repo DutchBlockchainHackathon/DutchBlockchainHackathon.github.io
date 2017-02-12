@@ -12,6 +12,8 @@ EnergyReimaginated | https://github.com/Nosykaa/energyBlockchain | 2202785f6b747
 GreenGrid | https://github.com/roadmanict/greengrid | 8576daf474f06530af2cf00d5a27fcc05e549fae | 8
 Go-Chain | https://github.com/iyogi/fabric-boilerplate | d3e7973301c9ff0b6982145a863549ef5b610490 | 8
 ISAAC | https://github.com/dbh17-team-isaac/fima-prototype.git | f05daeba50563968ae55ddf64e3e6cffb7669f6f | 8
+B9lab | https://github.com/coldice/dbh-b9lab-hackathon | 0c507502ced655b60cefc76235e486513aeb83a4 | 10
+
 
 
 
