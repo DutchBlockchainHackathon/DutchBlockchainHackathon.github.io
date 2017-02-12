@@ -15,7 +15,7 @@ B9lab | https://github.com/coldice/dbh-b9lab-hackathon | 0c507502ced655b60cefc76
 Quorra | github.com/TeamQuorra/dbh17 | 45f09343ffa032478217c4d0520073639c1207b9 | 7
 ToBlockChain | github.com/tannad/dbh17 | 2f8efbfe14e1092804ce9012f0a3fc89e04c0bc3 | x
 Greengrid | github.com/DBH17-Energy/clear-energy | 3993cf374343baba8be851fcdc0b6c6c0570938e | x
-lackfish | github.com/lackfish/enex | db01c8d9977fe99c8b24abfccc1a12959a27a4e6 | x
+lackfish | github.com/lackfish/enex | db01c8d9977fe99c8b24abfccc1a12959a27a4e6 | 10
 
 
 
