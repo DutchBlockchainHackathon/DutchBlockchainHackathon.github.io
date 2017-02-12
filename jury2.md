@@ -10,6 +10,7 @@ Ben#2 | https://github.com/dbHackathon2017/hackathon | 9849610a71b55ffbdb4bc34ca
 EpicAuth | https://github.com/Qqwy/EpicAuth | 727c0dc682ad61348fc7bce695e583c8deb890da | 10
 EnergyReimaginated | https://github.com/Nosykaa/energyBlockchain | 2202785f6b74735936b548c0b9daa415e76330ad | 4
 GreenGrid | https://github.com/roadmanict/greengrid | 8576daf474f06530af2cf00d5a27fcc05e549fae | 8
+Go-Chain | https://github.com/iyogi/fabric-boilerplate | d3e7973301c9ff0b6982145a863549ef5b610490 | 8
 
 
 
