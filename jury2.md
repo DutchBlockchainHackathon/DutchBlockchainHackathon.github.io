@@ -19,6 +19,7 @@ lackfish | github.com/lackfish/enex | db01c8d9977fe99c8b24abfccc1a12959a27a4e6 |
 Bridge-ID | x | b234de5 | x
 x | github.com/notarynodes/idintt | fb36998420837ad1646732a115664beac01443cb | x
 x | https://github.com/IBMZissou/dbh17-zissou | dfdf3125cc917e1017193dc3659639e0e7ebba25 | 8
+Incorporated | https://github.com/IBNetwork/fabric-boilerplate | d75622c7d2324e59744552e01806f1525a3cc589 | 6
 
 
 
