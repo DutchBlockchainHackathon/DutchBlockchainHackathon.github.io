@@ -31,6 +31,7 @@ Team | Better Code Score
 [JasonZHOU92/smartEnergyNode](https://github.com/JasonZHOU92/smartEnergyNode) | [![BCH compliance](https://bettercodehub.com/edge/badge/JasonZHOU92/smartEnergyNode)](https://bettercodehub.com)
 [ewoldh/emission-rights](https://github.com/ewoldh/emission-rights) | [![BCH compliance](https://bettercodehub.com/edge/badge/ewoldh/emission-rights)](https://bettercodehub.com)
 [woutersm/dbh-identity](https://github.com/woutersm/dbh-identity) | [![BCH compliance](https://bettercodehub.com/edge/badge/woutersm/dbh-identity)](https://bettercodehub.com)
+[mads-b/block-id](https://github.com/mads-b/block-id) | [![BCH compliance](https://bettercodehub.com/edge/badge/mads-b/block-id)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
