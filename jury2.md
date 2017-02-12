@@ -5,6 +5,7 @@ Gochain | https://github.com/vinguyen2011/fabric-boilerplate | 9f4f3f8e3b3030d5e
 StreetMusicChain | https://github.com/kivanov82/DutchBlockchainHackathon | 8a69cfe4454e01437b4fdcc62091b6902f36c80f | 10
 RAM | https://github.com/TeamRam/DBH17 | 2d57bb16720babf20b59419177608fd79eda5bea | 8
 PHi | https://github.com/phi-nomenal/phi-nomenal | c9f5ec14abb7a627d9484ca3974675f455caad34 | 10
+2045 | https://github.com/nicenemo/2045 | 92ee3fbc66de5db054845e22578689fe241a2b56 | 7
 
 
 
