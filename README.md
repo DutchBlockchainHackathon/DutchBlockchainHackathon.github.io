@@ -28,6 +28,9 @@ Team | Better Code Score
 [DBH17-Energy/clear-energy](https://github.com/DBH17-Energy/clear-energy) | [![BCH compliance](https://bettercodehub.com/edge/badge/DBH17-Energy/clear-energy)](https://bettercodehub.com)
 [lacksfish/enex](https://github.com/lacksfish/enex) | [![BCH compliance](https://bettercodehub.com/edge/badge/lacksfish/enex)](https://bettercodehub.com)
 [vanderheijden86/p2politics](https://github.com/vanderheijden86/p2politics) | [![BCH compliance](https://bettercodehub.com/edge/badge/vanderheijden86/p2politics)](https://bettercodehub.com)
+[JasonZHOU92/smartEnergyNode](https://github.com/JasonZHOU92/smartEnergyNode) | [![BCH compliance](https://bettercodehub.com/edge/badge/JasonZHOU92/smartEnergyNode)](https://bettercodehub.com)
+[ewoldh/emission-rights](https://github.com/ewoldh/emission-rights) | [![BCH compliance](https://bettercodehub.com/edge/badge/ewoldh/emission-rights)](https://bettercodehub.com)
+[woutersm/dbh-identity](https://github.com/woutersm/dbh-identity) | [![BCH compliance](https://bettercodehub.com/edge/badge/woutersm/dbh-identity)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
