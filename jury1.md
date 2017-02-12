@@ -11,3 +11,4 @@ Six factor | oliveirafm/hackathon | 8921c49db0f0f36bca7d260776d0a840798e5954 | 7
 De groene stropdas | mjduijn/blockchain-hackathon | af3e487c3237e905b3db33efbf3aaf5d6db9a375 | 10
 Energy! | DBH17-Energy/clear-energy | 3993cf374343baba8be851fcdc0b6c6c0570938e | 9
 BlockBusters | alexbaloc/hackathon | d8a0ca7edd1af0aa40127d84fa1d274d90c42b92 | 8
+Power to the person | aufbakanleitung/liquid_democracy_blockchain | 2938ea73654b91765ec6ab921bf236eefe7c90ea | 9
