@@ -12,3 +12,4 @@ De groene stropdas | mjduijn/blockchain-hackathon | af3e487c3237e905b3db33efbf3a
 Energy! | DBH17-Energy/clear-energy | 3993cf374343baba8be851fcdc0b6c6c0570938e | 9
 BlockBusters | alexbaloc/hackathon | d8a0ca7edd1af0aa40127d84fa1d274d90c42b92 | 8
 Power to the person | aufbakanleitung/liquid_democracy_blockchain | 2938ea73654b91765ec6ab921bf236eefe7c90ea | 9
+DC-Cicero | willem7684/Multichain-php-API | 4e5ff0565e01edb04ebafceb860ae922d51afadc | 10
