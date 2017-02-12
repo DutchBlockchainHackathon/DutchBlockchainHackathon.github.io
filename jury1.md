@@ -7,3 +7,4 @@ Ortec Finance Tech Labs | joriscram/ofblackchainhackathon | d0e77a41940a8e23854f
 101chain | weelink/pim | 348758d44e9a787553977da8810c19c57ce82e25 | 8
 Refugee Simple | woutersm/dbh-identity | 911491970353c53d3d1b6e73199fae51b7f1e7b7 | 6
 Time for plan B | rvzanten/mtga-backend | 4ec075712a467062ad9e5140ff6f9a711c27af6d | 10
+Juru | juru-identity/dbh-middle | af3e487c3237e905b3db33efbf3aaf5d6db9a375 | 7
