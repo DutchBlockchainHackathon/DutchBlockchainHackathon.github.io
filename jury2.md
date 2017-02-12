@@ -16,6 +16,10 @@ Quorra | github.com/TeamQuorra/dbh17 | 45f09343ffa032478217c4d0520073639c1207b9 
 ToBlockChain | github.com/tannad/dbh17 | 2f8efbfe14e1092804ce9012f0a3fc89e04c0bc3 | x
 Greengrid | github.com/DBH17-Energy/clear-energy | 3993cf374343baba8be851fcdc0b6c6c0570938e | x
 lackfish | github.com/lackfish/enex | db01c8d9977fe99c8b24abfccc1a12959a27a4e6 | 10
+Bridge-ID | x | b234de5 | x
+x | github.com/notarynodes/idintt | fb36998420837ad1646732a115664beac01443cb | x
+x | https://github.com/IBMZissou/dbh17-zissou | dfdf3125cc917e1017193dc3659639e0e7ebba25 | 8
+
 
 
 
