@@ -36,9 +36,9 @@ BlockBusters | alexbaloc/hackathon | d8a0ca7edd1af0aa40127d84fa1d274d90c42b92 | 
 Power to the person | aufbakanleitung/liquid_democracy_blockchain | 2938ea73654b91765ec6ab921bf236eefe7c90ea | 9
 DC-Cicero | willem7684/Multichain-php-API | 4e5ff0565e01edb04ebafceb860ae922d51afadc | 10
 Abraxas | dhb17-abraxas/ShareEverythingWeb | 5fcfb7af4a4d23ac9765e83e6ad730e3ae8aaabe | 7
-Save the pig | https://github.com/SavethePig/blockchain | b8972eb2b10b818fcb15291df33907eaa9cfb622 | 7
+Save the pig | SavethePig/blockchain | b8972eb2b10b818fcb15291df33907eaa9cfb622 | 7
 Gemeente Zuidhorn | community2/dbh-zuidhorn- | 58aacd4348d0c24ca7b10b40564c54b8e2685e82 | 6
-
+Team Signicat | mads-b/block-id | 80785f9d885fc1f089064c109aefc16ffeb43f87 | 8
 
 
 
