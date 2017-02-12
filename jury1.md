@@ -8,3 +8,6 @@ Ortec Finance Tech Labs | joriscram/ofblackchainhackathon | d0e77a41940a8e23854f
 Refugee Simple | woutersm/dbh-identity | 911491970353c53d3d1b6e73199fae51b7f1e7b7 | 6
 Time for plan B | rvzanten/mtga-backend | 4ec075712a467062ad9e5140ff6f9a711c27af6d | 10
 Juru | juru-identity/dbh-middle | af3e487c3237e905b3db33efbf3aaf5d6db9a375 | 7
+Six factor | oliveirafm/hackathon | 8921c49db0f0f36bca7d260776d0a840798e5954 | 7
+De groene stropdas | mjduijn/blockchain-hackathon | af3e487c3237e905b3db33efbf3aaf5d6db9a375 | 10
+Energy! | DBH17-Energy/clear-energy | 3993cf374343baba8be851fcdc0b6c6c0570938e | 9
