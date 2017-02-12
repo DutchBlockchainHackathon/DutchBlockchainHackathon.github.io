@@ -37,7 +37,7 @@ Power to the person | aufbakanleitung/liquid_democracy_blockchain | 2938ea73654b
 DC-Cicero | willem7684/Multichain-php-API | 4e5ff0565e01edb04ebafceb860ae922d51afadc | 10
 Abraxas | dhb17-abraxas/ShareEverythingWeb | 5fcfb7af4a4d23ac9765e83e6ad730e3ae8aaabe | 7
 Save the pig | https://github.com/SavethePig/blockchain | b8972eb2b10b818fcb15291df33907eaa9cfb622 | 7
-
+Gemeente Zuidhorn | community2/dbh-zuidhorn- | 58aacd4348d0c24ca7b10b40564c54b8e2685e82 | 6
 
 
 
