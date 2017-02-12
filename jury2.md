@@ -11,6 +11,7 @@ EpicAuth | https://github.com/Qqwy/EpicAuth | 727c0dc682ad61348fc7bce695e583c8de
 EnergyReimaginated | https://github.com/Nosykaa/energyBlockchain | 2202785f6b74735936b548c0b9daa415e76330ad | 4
 GreenGrid | https://github.com/roadmanict/greengrid | 8576daf474f06530af2cf00d5a27fcc05e549fae | 8
 Go-Chain | https://github.com/iyogi/fabric-boilerplate | d3e7973301c9ff0b6982145a863549ef5b610490 | 8
+ISAAC | https://github.com/dbh17-team-isaac/fima-prototype.git | f05daeba50563968ae55ddf64e3e6cffb7669f6f | 8
 
 
 
