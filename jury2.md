@@ -20,6 +20,7 @@ Bridge-ID | x | b234de5 | x
 x | github.com/notarynodes/idintt | fb36998420837ad1646732a115664beac01443cb | x
 x | https://github.com/IBMZissou/dbh17-zissou | dfdf3125cc917e1017193dc3659639e0e7ebba25 | 8
 Incorporated | https://github.com/IBNetwork/fabric-boilerplate | d75622c7d2324e59744552e01806f1525a3cc589 | 6
+MathLink | https://github.com/dcossao/MathLink-hackathon | 7fd64a257f05a64ca425c37411c47cad583026bf | 6
 
 
 
