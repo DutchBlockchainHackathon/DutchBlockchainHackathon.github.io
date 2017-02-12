@@ -27,6 +27,7 @@ Team | Better Code Score
 [willem7684/Multichain-php-API](https://github.com/willem7684/Multichain-php-API) | [![BCH compliance](https://bettercodehub.com/edge/badge/willem7684/Multichain-php-API)](https://bettercodehub.com)
 [DBH17-Energy/clear-energy](https://github.com/DBH17-Energy/clear-energy) | [![BCH compliance](https://bettercodehub.com/edge/badge/DBH17-Energy/clear-energy)](https://bettercodehub.com)
 [lacksfish/enex](https://github.com/lacksfish/enex) | [![BCH compliance](https://bettercodehub.com/edge/badge/lacksfish/enex)](https://bettercodehub.com)
+[vanderheijden86/p2politics](https://github.com/vanderheijden86/p2politics) | [![BCH compliance](https://bettercodehub.com/edge/badge/vanderheijden86/p2politics)](https://bettercodehub.com)
 
 ## How your code is evaluated
 
