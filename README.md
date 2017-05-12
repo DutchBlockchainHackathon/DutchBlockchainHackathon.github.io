@@ -56,5 +56,5 @@ Or about the [Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/ho
 
 Let's build some great software!
 
-[Zeeger](https://github.com/), [Ravish](https://github.com/) and [Michiel](https://github.com/michielcuijpers)
+[Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu/) and [Michiel](https://github.com/michielcuijpers)
 
