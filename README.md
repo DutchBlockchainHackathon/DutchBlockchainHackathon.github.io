@@ -2,7 +2,7 @@
 
 When: 10, 11 and 12 February 2017.
 
-Where: [The Big Building, Groningen NL](https://beyondbanking.nl/p/venue)
+Where: The Big Building, Groningen NL
 
 
 ## Final Hackathon Scoreboard
