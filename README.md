@@ -1,39 +1,17 @@
-# Earn bonus points for code quality during the Dutch Blockchain Hackathon!
+# Code quality during Blockchaingers Hackathon!
 
-When: 10, 11 and 12 February 2017.
+When: 5 - 8 April 2018.
 
 Where: The Big Building, Groningen NL
 
 
-## Final Hackathon Scoreboard
+## Example Hackathon Scoreboard
 
 Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
 
 Team | Better Code Score
 --- | ---
 [dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-[dbh17-abraxas/ShareEverythingTruffle](https://github.com/dbh17-abraxas/ShareEverythingTruffle) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingTruffle)](https://bettercodehub.com)
-[dbh17-abraxas/ShareEverythingEthereum](https://github.com/dbh17-abraxas/ShareEverythingEthereum) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingEthereum)](https://bettercodehub.com)
-[rvzanten/mtga-backend](https://github.com/rvzanten/mtga-backend) | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-backend)](https://bettercodehub.com)
-[rvzanten/mtga-frontend](https://github.com/rvzanten/mtga-frontend) | [![BCH compliance](https://bettercodehub.com/edge/badge/rvzanten/mtga-frontend)](https://bettercodehub.com)
-[Anchormen/dutch-blockchain-hackathon-project-piggybank](https://github.com/Anchormen/dutch-blockchain-hackathon-project-piggybank) | [![BCH compliance](https://bettercodehub.com/edge/badge/Anchormen/dutch-blockchain-hackathon-project-piggybank)](https://bettercodehub.com)
-[ArthurManz/thrust-id](https://github.com/ArthurManz/thrust-id) | [![BCH compliance](https://bettercodehub.com/edge/badge/ArthurManz/thrust-id)](https://bettercodehub.com)
-[phi-nomenal/phi-nomenal](https://github.com/phi-nomenal/phi-nomenal) | [![BCH compliance](https://bettercodehub.com/edge/badge/phi-nomenal/phi-nomenal)](https://bettercodehub.com)
-[ajagesser/stemapp](https://github.com/ajagesser/stemapp) | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
-[ajagesser/contracts](https://github.com/ajagesser/contracts) | [![BCH compliance](https://bettercodehub.com/edge/badge/ajagesser/contracts)](https://bettercodehub.com)
-[TeamRam/DBH17](https://github.com/TeamRam/DBH17) | [![BCH compliance](https://bettercodehub.com/edge/badge/TeamRam/DBH17)](https://bettercodehub.com)
-[coldice/dbh-b9lab-hackathon](https://github.com/coldice/dbh-b9lab-hackathon)  | [![BCH compliance](https://bettercodehub.com/edge/badge/coldice/dbh-b9lab-hackathon)](https://bettercodehub.com)
-[timostrating/DutchBlockchainHackathon-2017](https://github.com/timostrating/DutchBlockchainHackathon-2017) | [![BCH compliance](https://bettercodehub.com/edge/badge/timostrating/DutchBlockchainHackathon-2017)](https://bettercodehub.com)
-[ictdijk/digid](https://github.com/ictdijk/digid) | [![BCH compliance](https://bettercodehub.com/edge/badge/ictdijk/digid)](https://bettercodehub.com)
-[willem7684/Multichain-php-API](https://github.com/willem7684/Multichain-php-API) | [![BCH compliance](https://bettercodehub.com/edge/badge/willem7684/Multichain-php-API)](https://bettercodehub.com)
-[DBH17-Energy/clear-energy](https://github.com/DBH17-Energy/clear-energy) | [![BCH compliance](https://bettercodehub.com/edge/badge/DBH17-Energy/clear-energy)](https://bettercodehub.com)
-[lacksfish/enex](https://github.com/lacksfish/enex) | [![BCH compliance](https://bettercodehub.com/edge/badge/lacksfish/enex)](https://bettercodehub.com)
-[vanderheijden86/p2politics](https://github.com/vanderheijden86/p2politics) | [![BCH compliance](https://bettercodehub.com/edge/badge/vanderheijden86/p2politics)](https://bettercodehub.com)
-[JasonZHOU92/smartEnergyNode](https://github.com/JasonZHOU92/smartEnergyNode) | [![BCH compliance](https://bettercodehub.com/edge/badge/JasonZHOU92/smartEnergyNode)](https://bettercodehub.com)
-[ewoldh/emission-rights](https://github.com/ewoldh/emission-rights) | [![BCH compliance](https://bettercodehub.com/edge/badge/ewoldh/emission-rights)](https://bettercodehub.com)
-[woutersm/dbh-identity](https://github.com/woutersm/dbh-identity) | [![BCH compliance](https://bettercodehub.com/edge/badge/woutersm/dbh-identity)](https://bettercodehub.com)
-[mads-b/block-id](https://github.com/mads-b/block-id) | [![BCH compliance](https://bettercodehub.com/edge/badge/mads-b/block-id)](https://bettercodehub.com)
-
 
 
 ## How your code is evaluated
@@ -44,18 +22,20 @@ Team | Better Code Score
 
 3. You can check your code against the guidelines using Better Code Hub, a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub Flow and can run at Pull Requests and Commits.
 
-4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 100 KLoc
+4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc
 
 
 ## How to get started
 
-1. Mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
+1. Mail your team name and personal GitHub handles to the BlockChaingers.
 
-2. Put your public or private repo on Github in your profile
+2. Your team will be added to this [Organization](https://github.com/blockchaingers)
 
 3. Go to [bettercodehub.com](https://bettercodehub.com) 
 
-4. get instant feedback on the guidelines and pick refactor candidates
+4. Press play and get instant feedback on the guidelines and pick refactor candidates
+
+5. Click on the Pull request icon to enable BetterCodeHub to run in your CICD
 
 
 ## How to get support
@@ -66,14 +46,13 @@ Team | Better Code Score
 
 3. After the event, through bettercodehub@sig.eu 
 
-4. your Pro access to Better Code Hub remains valid for *12 months* after the event
 
 
 ## How to get points for technical quality
 
 1. You get based on your score in Better Code Hub
 
-2. The more guidelines you get right, the more bonus points you get
+2. The more guidelines you get right, the more points you get
 
 If you are not on GitHub or your programming language is not supported, talk to us
 
@@ -87,5 +66,5 @@ Or about the [Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/ho
 
 Let's build some great software!
 
-[Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu/) and [Michiel](https://github.com/michielcuijpers)
+[Michiel](https://github.com/michielcuijpers)
 
