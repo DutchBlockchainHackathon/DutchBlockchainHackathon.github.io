@@ -5,6 +5,7 @@ When: 5 - 8 April 2018.
 Where: The Big Building, Groningen NL
 
 
+
 ## Example Hackathon Scoreboard
 
 Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
